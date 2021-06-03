@@ -6,3 +6,9 @@ The purpose of this repository is to make changes and updates to the new PlanMyT
 
 This dataframe shows the data pulled from an API call 
 ![](weather_data/dataframe.PNG)
+
+## Deliverable 2
+
+This map marker layer map for the cities in the vacation DataFrame is created
+
+![](
