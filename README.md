@@ -11,4 +11,4 @@ This dataframe shows the data pulled from an API call
 
 This map marker layer map for the cities in the vacation DataFrame is created
 
-![](
+![](Vacation_search/WeatherPy_vacation_map.PNG)
